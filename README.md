@@ -1,4 +1,7 @@
 # Car-Sales-Analysis
+
+![Sales Summary](https://github.com/user-attachments/assets/1c7a840f-8d43-4827-9ca8-474774899fde)
+
 **Impact of Sales Performance Across Countries and Brands**
 
 Understanding sales trends and performance metrics is crucial for driving business decisions and strategies. This analysis focuses on the sales performance of various brands across multiple countries, analyzing key metrics like total sales, profit, units sold, and more. The data visualization presented in the Power BI dashboard offers a clear and concise overview of these metrics, providing insights into the sales landscape.
